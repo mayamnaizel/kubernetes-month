@@ -16,6 +16,7 @@ Kubernetes Month is divided into **weekly sessions**, each focusing on a core Ku
 | Week 2 | Kubernetes Networking |
 | Week 3 | Observability in Kubernetes |
 | Week 4 | Kubernetes from a Business Perspective |
+| Week 5 | YAML For Kubernetes |
 
 Each week includes:
 - Presentation slides  
